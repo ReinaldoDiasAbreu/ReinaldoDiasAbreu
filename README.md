@@ -1,8 +1,8 @@
 ### Olá, me chamo Reinaldo Junio 👋
 
 ## 👨🏽‍🎓 Sou estudante de Ciência da Computação - IFNMG
-- 🔭 Atualmente estou trabalhando em um projeto de pesquisa em geoestatística
-- 📖 Atualmente estou estudando desenvolvimento web
+- 🔭 Desenvolvedor do Software KSplit para Krigagem das Partes
+- 📖 Atualmente estou estudando sistemas imunes artificiais para balanceamento de dados
 - 🌱 A todo momento inicio um novo projetinho 🤣
 - 🤝 Sempre que possível ajudo em outros projetos open source
 
