@@ -1,10 +1,10 @@
 ### Olá, me chamo Reinaldo Junio 👋
 
 ## 👨🏽‍🎓 Sou estudante de Ciência da Computação - IFNMG
-- 🔭 Desenvolvedor do Software KSplit para Krigagem das Partes
-- 📖 Atualmente estou estudando sistemas imunes artificiais para balanceamento de dados
-- 🌱 A todo momento inicio um novo projetinho 🤣
-- 🤝 Sempre que possível ajudo em outros projetos open source
+- 🧑🏾‍💻🧪 I research Artificial Immune Systems and Brain-Computer Interface.
+- 👨🏽‍🎓 Master's student in Computer Science (USP/ICMC).
+- 🎓 Bachelor's degree in Computer Science (IFNMG).
+
 
 ### Minhas Redes Sociais:
 
