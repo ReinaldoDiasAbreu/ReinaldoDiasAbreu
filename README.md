@@ -1,6 +1,6 @@
 ### Olá, me chamo Reinaldo Junio 👋
 
-## 👨🏽‍🎓 Cientista da da Computação
+## 👨🏽‍🎓 Cientista da Computação
 - 🧑🏾‍💻🧪 I research Artificial Immune Systems and Brain-Computer Interface.
 - 👨🏽‍🎓 Master's student in Computer Science (USP/ICMC).
 - 🎓 Bachelor's degree in Computer Science (IFNMG).
