@@ -1,47 +1,78 @@
-### Olá, me chamo Reinaldo Junio 👋
+<h2 align="left">Hi 👋! My name is Reinaldo.</h2>
 
-## 👨🏽‍🎓 Cientista da Computação
-- 🧑🏾‍💻🧪 I research Artificial Immune Systems and Brain-Computer Interface.
-- 👨🏽‍🎓 Master's student in Computer Science (USP/ICMC).
-- 🎓 Bachelor's degree in Computer Science (IFNMG).
+###
 
-
-### Minhas Redes Sociais:
-
-[<img align="left" alt="ReinaldoDias | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="ReinaldoDias | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<h4 align="left">👨🏽‍🎓 I am Computer Scientist from  Brasil 🇧🇷.</h4>
 
 
-<br />
+<img align="right" height="200" 
+src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif"  />
 
-### Tecnologias que já binquei:
+###
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+<p align="left">- 🧑🏾‍💻🧪 I research Artificial Immune Systems and 
+Brain-Computer Interface.<br>- 👨🏽‍🎓 Master's student in Computer Science 
+(USP/ICMC).<br>- 🎓 Bachelor's degree in Computer Science (IFNMG).<br>- 🧑🏾‍💻 
+I like to contribute to open source software when I can.</p>
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
+###
 
-<img align="left" alt="Julia" width="26px" src="https://raw.githubusercontent.com/github/explore/49e13f12be05e7e3f3616bb7a5030d70b259f320/topics/julia/julia.png" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+  <img width="12" />
+  <img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.
+svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo" 
+ />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=r" height="30" alt="r logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  
+/>
+</div>
 
+###
 
-<br />
-<br />
+<div align="left">
+  <img 
+src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&
+color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" 
+alt="linktree logo"  />
+  <a href="http://www.youtube.com/@reinaldodiasabreu" target="_blank">
+    <img 
+src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=
+FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube 
+logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/reinaldodiasabreu/" target="_blank">
+    <img 
+src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&
+color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" 
+alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/reinaldoabreubr" target="_blank">
+    <img 
+src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&
+color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" 
+alt="instagram logo"  />
+  </a>
+</div>
 
----
+###
 
-<img align="left" alt="ReinaldoDiasAbreu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ReinaldoDiasAbreu&show_icons=true&hide_border=true" />
+<div>
+  <img style="100%" 
+src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header
+&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-
+&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-
-[linkedin]: https://www.linkedin.com/in/reinaldodiasabreu/
-[twitter]: https://twitter.com/reinaldodiasbr
-[youtube]: https://www.youtube.com/channel/UC84uOssxEC7zMq_lWeOOL7w
-
+###
