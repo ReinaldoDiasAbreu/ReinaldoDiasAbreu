@@ -21,8 +21,7 @@ I like to contribute to open source software when I can.</p>
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
   <img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.
-svg" height="30" alt="python logo"  />
+src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
   <img width="12" />
