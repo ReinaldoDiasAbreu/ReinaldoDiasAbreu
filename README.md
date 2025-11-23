@@ -1,81 +1,85 @@
+<div align="center">
+
+<table width="80%">
+<tr>
+
+<td width="60%" valign="middle">
+
 <h2 align="left">Hi 👋! My name is Reinaldo.</h2>
+<h4 align="left">👨🏽‍💻 I am Computer Scientist from Brasil 🇧🇷.</h4>
 
-###
+<p align="left">
+- 🧑🏾‍💻🧪 I research Artificial Immune Systems and Brain-Computer Interface.<br>
+- 🎓 Master's student in Computer Science (USP/ICMC).<br>
+- 🎓 Bachelor's degree in Computer Science (IFNMG).<br>
+- 💻 I like to contribute to open source software when I can.
+</p>
 
-<h4 align="left">👨🏽‍🎓 I am Computer Scientist from  Brasil 🇧🇷.</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="30" />
+  <img src="https://skillicons.dev/icons?i=python" height="30" />
+  <img src="https://skillicons.dev/icons?i=rust" height="30" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" />
+  <img src="https://skillicons.dev/icons?i=r" height="30" />
+  <img src="https://skillicons.dev/icons?i=lua" height="30" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" />
+</p>
 
-
-<img align="right" height="200" 
-src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif"  />
-
-###
-
-<p align="left">- 🧑🏾‍💻🧪 I research Artificial Immune Systems and 
-Brain-Computer Interface.<br>- 👨🏽‍🎓 Master's student in Computer Science 
-(USP/ICMC).<br>- 🎓 Bachelor's degree in Computer Science (IFNMG).<br>- 🧑🏾‍💻 
-I like to contribute to open source software when I can.</p>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img 
-src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo" 
- />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=r" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  
-/>
-</div>
-
-###
-
-<div align="left">
+<p align="left">
   <a href="https://linktr.ee/reinaldoabreu" target="_blank">
-  <img 
-src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+    <img height="28" src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&color=1de9b6&logoColor=white&style=for-the-badge"/>
   </a>
-  
   <a href="http://www.youtube.com/@reinaldodiasabreu" target="_blank">
-    <img 
-src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img height="28" src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge"/>
   </a>
-  
   <a href="https://www.linkedin.com/in/reinaldodiasabreu/" target="_blank">
-    <img 
-src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img height="28" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge"/>
   </a>
-  
   <a href="https://instagram.com/reinaldoabreubr" target="_blank">
-    <img 
-src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" 
-alt="instagram logo"  />
+    <img height="28" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge"/>
   </a>
-  
+</p>
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+  <!--<img height="250" src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif"/> -->
+  <!-- <img height="250" src="https://media1.tenor.com/m/vi282Mc9raIAAAAd/ascii-drone.gif"/> -->
+  <img height="250" src="https://media1.tenor.com/m/hpxLtJ8H5tsAAAAC/glider-gun-game-of-life.gif"/> 
+  <!--<img height="250" src="https://media.tenor.com/Pao5mBkmLroAAAAi/pengu-pudgy.gif"/> -->
+</td>
+
+</tr>
+</table>
+
 </div>
 
-###
+<!-- GitHub Cards Section -->
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReinaldoDiasAbreu/ReinaldoDiasAbreu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReinaldoDiasAbreu/ReinaldoDiasAbreu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ReinaldoDiasAbreu/ReinaldoDiasAbreu/output/github-contribution-grid-snake.svg">
-</picture>
-
-###
-<div>
-  <img style="100%" 
-src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <!-- Stats -->
+  <div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ReinaldoDiasAbreu&show_icons=true&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinaldoDiasAbreu&layout=compact&theme=dracula"/>
 </div>
 
-###
+  <!-- Troféus -->
+  <br/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ReinaldoDiasAbreu&theme=dracula&margin-w=10&no-bg=true&row=1&column=6"
+  />
+
+  <!-- Snake Animation -->
+  <br/>
+  <img
+    src="https://raw.githubusercontent.com/ReinaldoDiasAbreu/ReinaldoDiasAbreu/output/github-contribution-grid-snake.svg"
+    alt=""
+  />
+
+  <br/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"
+  />
+
+</div>
