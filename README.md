@@ -1,6 +1,6 @@
 <div align="center">
 
-<table width="80%">
+<table width="80%" style="border: none; border-collapse: collapse;">
 <tr>
 
 <td width="60%" valign="middle">
