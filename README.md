@@ -58,26 +58,24 @@
 <!-- GitHub Cards Section -->
 <div align="center">
 
-  <!-- Stats -->
+  <!-- Stats 
   <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ReinaldoDiasAbreu&show_icons=true&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinaldoDiasAbreu&layout=compact&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinaldoDiasAbreu"/>
 </div>
+-->
 
   <!-- Troféus -->
-  <br/>
   <img
-    src="https://github-profile-trophy.vercel.app/?username=ReinaldoDiasAbreu&theme=dracula&margin-w=10&no-bg=true&row=1&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=ReinaldoDiasAbreu&theme=dracula&row=1&column=7"
   />
 
   <!-- Snake Animation -->
-  <br/>
   <img
     src="https://raw.githubusercontent.com/ReinaldoDiasAbreu/ReinaldoDiasAbreu/output/github-contribution-grid-snake.svg"
     alt=""
   />
 
-  <br/>
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"
   />
