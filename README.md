@@ -65,10 +65,11 @@
 </div>
 -->
 
-  <!-- Troféus -->
+  <!-- Troféus 
   <img
     src="https://github-profile-trophy.vercel.app/?username=ReinaldoDiasAbreu&theme=dracula&row=1&column=7"
   />
+  -->
 
   <!-- Snake Animation -->
   <img
