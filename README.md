@@ -58,19 +58,6 @@
 <!-- GitHub Cards Section -->
 <div align="center">
 
-  <!-- Stats 
-  <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ReinaldoDiasAbreu&show_icons=true&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinaldoDiasAbreu"/>
-</div>
--->
-
-  <!-- Troféus 
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ReinaldoDiasAbreu&theme=dracula&row=1&column=7"
-  />
-  -->
-
   <!-- Snake Animation -->
   <img
     src="https://raw.githubusercontent.com/ReinaldoDiasAbreu/ReinaldoDiasAbreu/output/github-contribution-grid-snake.svg"
