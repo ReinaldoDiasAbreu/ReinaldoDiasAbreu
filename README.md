@@ -39,6 +39,10 @@
   <a href="https://instagram.com/reinaldoabreubr" target="_blank">
     <img height="28" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge"/>
   </a>
+  <a href="https://bolha.us/@reinaldo" target="_blank">
+    <img height="28" src="https://img.shields.io/static/v1?message=Mastodon&logo=mastodon&color=E4405F&logoColor=white&style=for-the-badge"/>
+  </a>
+  
 </p>
 
 </td>
